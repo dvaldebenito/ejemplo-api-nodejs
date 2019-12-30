@@ -1,0 +1,6 @@
+{
+    "uid": "nodejs-forever-env",
+    "append": true,
+    "script": "dist/index.js",
+    "logFile": "/opt/desarrollo/logs/nodejs-forever-env.log"
+}

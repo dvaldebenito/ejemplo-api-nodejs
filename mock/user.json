@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Daniel Valdebenito González",
+      "username": "tanganiel",
+      "email": "tanganiel@gmail.com"
+    },
+    {
+      "id": 2,
+      "name": "Leanne Graham",
+      "username": "Bret",
+      "email": "Sincere@april.biz"
+    },
+    {
+      "name": "Mateo Valdebenito Gonzalez",
+      "username": "Bebe",
+      "email": "mateovaldebenitogonzalez@gmail.com",
+      "id": 3
+    }
+  ]
+}
